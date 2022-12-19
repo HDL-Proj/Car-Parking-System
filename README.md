@@ -5,13 +5,13 @@
 First, generate vvp file:
 
 ```bash
-iverilog -o _tb_car_parking_system.vvp car_parking_system.v
+iverilog -o sim.vvp tb_car_parking_system.v
 ```
 
 Then, generate dump vcd file:
 
 ```bash
-vvp  _tb_car_parking_system.vvp
+vvp sim.vvp
 ```
 
 Lastly, simulate
