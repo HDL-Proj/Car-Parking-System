@@ -19,3 +19,13 @@ Lastly, simulate
 ```bash
 gtkwave
 ```
+
+## 👥:
+
+Alicaway,
+Belicario,
+Revilla,
+Nota,
+Mission,
+Efa,
+Tamio
